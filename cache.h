@@ -1,7 +1,3 @@
-//
-// Created by Alex Brodsky on 2024-03-10.
-//
-
 #ifndef CACHE_CACHE_H
 #define CACHE_CACHE_H
 

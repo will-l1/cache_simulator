@@ -1,7 +1,3 @@
-//
-// Created by Alex Brodsky on 2024-03-10.
-//
-
 #include "cache.h"
 typedef struct line{
     unsigned int timer;
