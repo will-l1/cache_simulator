@@ -9,13 +9,13 @@ cache.c: The implementation of the cache, including functions for initializing t
 Compilation
 To compile the project, use the following command:
 
-sh
+css
 Copy code
 gcc -o cache_simulator main.c cache.c
 Usage
 After compiling, you can run the simulator as follows:
 
-sh
+bash
 Copy code
 ./cache_simulator
 The program expects three inputs:
@@ -53,7 +53,7 @@ cache_get(unsigned long address, unsigned long *value): Retrieves a value from t
 Debugging
 To enable debugging messages, compile with the DEBUG flag:
 
-sh
+css
 Copy code
 gcc -DDEBUG -o cache_simulator main.c cache.c
 License
